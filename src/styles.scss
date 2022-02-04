@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.05);
+    font-family: 'Lato', sans-serif;
+}
+
+.margin-bottom-16 {
+    margin-bottom: 16px;
+}
+
+.padding-16 {
+    padding: 16px;
+}
+
+.standard-card {
+    background-color: white;
+    width: 400px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    margin-bottom: 32px;
+    box-sizing: border-box;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
