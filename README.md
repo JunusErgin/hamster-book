@@ -1,6 +1,7 @@
-# MyFirstProject
+# Hamsterbook
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+It is a social network for hamsters.
 
 ## Über dieses Projekt
 Du hast einen Hamster? Dann registriere dich jetzt auf Hamsterbook!!
